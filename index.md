@@ -310,6 +310,9 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<p>
+  If you experience problems with installing the software below (for example, due to lack of administrative rights on your laptop), get in touch with the Turing's IT Services Team (ITServices@turing.ac.uk) before the workshop.
+</p>
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
